@@ -23,7 +23,7 @@ $ build.sh
 ### Start container
 
 ```bash
-$ docker run -d --name web-test -p 8080:8000 mattmahoneyrh/hello-world
+$ docker run -d --name os-demo -p 8080:8000 mattmahoneyrh/hello-world
 ```
 ### Starting web server on port 8080
 
